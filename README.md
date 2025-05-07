@@ -2,7 +2,7 @@
 
 🚀👨‍💻**DevOps Engineer** |💡 **Lifelong Learner**
 
-Developer turned DevOps Engineer, curious about system internals and how things work.
+BE Web Developer turned DevOps Engineer, curious about system internals and how things work.
 
 ### 🔭 Currently Exploring
 
